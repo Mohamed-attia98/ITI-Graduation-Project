@@ -17,5 +17,6 @@ into the data warehouse, extracted useful information by applying different busi
 - the data pipelines which resposible for exctract , transform and load (ETL) was implemented using SSIS 
 - the OLAP cube and reports are created using SSAS and SSRS 
 - the dashboards of all aspects of the database entities are created using power bi 
-⭐ Hint you can see the dashboards deployed on Novypro website [LINK](https://www.novypro.com/project/power-bi-73)
+- 
+⭐ **Hint** you can see the dashboards deployed on Novypro website [LINK](https://www.novypro.com/project/power-bi-73)
 
