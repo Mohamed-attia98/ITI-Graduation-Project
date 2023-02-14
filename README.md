@@ -13,9 +13,28 @@ into the data warehouse, extracted useful information by applying different busi
 - Implemented a small desktop application
 - deployed a machine learning model on a small website 
 ## Technical Details
-- implementation of database and data warehouse was developed on sql server , the structure and the data of the database was created using sql 
-- the data pipelines which resposible for exctract , transform and load (ETL) was implemented using SSIS 
+- he database and data warehouse were developed on SQL Server 
+- The data pipelines for ETL were implemented using SSIS. 
 - the OLAP cube and reports are created using SSAS and SSRS 
 - the dashboards of all aspects of the database entities are created using power bi  
-    ⭐ **Hint** you can see the dashboards deployed on Novypro website from here -> [LINK](https://www.novypro.com/project/power-bi-73)
+    ⭐ **Hint** you can see the dashboards deployed on Novypro's website from here -> [LINK](https://www.novypro.com/project/power-bi-73)
+- The desktop application uses two libraries: one to connect to the SQL Server called pyodbc, and the other to create the GUI called PyQt5.
+- implemented machine learning models( LinearRegression - KNeighborsRegressor - SVR - DecisionTreeRegressor - RandomForestRegressor ) using scikit learn
+- The Streamlit library was used to deploy the machine learning model.
+## Demo
+- Here is an example of a data pipeline that we built, which loads the data into the product dimension in the data warehouse.
+![image](https://user-images.githubusercontent.com/82019926/218820861-7b026b65-fbf0-415b-bcc5-f01a109fe6d7.png)
+- This is one of the reports we designed. It shows the sales of each product for every month.
+ ![image](https://user-images.githubusercontent.com/82019926/218823344-d4b50612-c8e9-4120-8366-62ff6c55582d.png)
+- Here's one of the Power BI dashboards we designed, which displays the analysis of orders. 
+![image](https://user-images.githubusercontent.com/82019926/218824598-85d7a28c-3883-4191-974b-938589ad0421.png)
+- This is the final product and it is a website built on the RandomForestRegressor algorithm, it works by outputting the profit for the category after inputting required data. 
+![Screenshot_20230205_025628](https://user-images.githubusercontent.com/82019926/218831248-9ce7e6cf-59aa-47bd-bbe9-16b3f5e59308.png)
+
+
+
+
+
+ 
+
 
