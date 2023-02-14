@@ -12,4 +12,10 @@ into the data warehouse, extracted useful information by applying different busi
 - created interactive dashboards
 - Implemented a small desktop application
 - deployed a machine learning model on a small website 
+## Technical Details
+- implementation of database and data warehouse was developed on sql server , the structure and the data of the database was created using sql 
+- the data pipelines which resposible for exctract , transform and load (ETL) was implemented using SSIS 
+- the OLAP cube and reports are created using SSAS and SSRS 
+- the dashboards of all aspects of the database entities are created using power bi 
+*
 
