@@ -4,3 +4,12 @@ into the data warehouse, extracted useful information by applying different busi
 ## project Steps
 - Database Design
   - Designed and created an Entity-Relationship (ER) Diagram and mapping to model the database. 
+  - Implemented a database using Microsoft SQL Server and added stored procedures, views, functions, and triggers to ensure data consistency and integrity.
+- Data warehouse Design
+  - Designed and Implemented a star schema data warehouse in sql server
+  - Created data pipelines to load the data into the data warehouse 
+- generated an OLAP cube and designed reports
+- created interactive dashboards
+- Implemented a small desktop application
+- deployed a machine learning model on a small website 
+
