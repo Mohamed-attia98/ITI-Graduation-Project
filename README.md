@@ -24,11 +24,14 @@ into the data warehouse, extracted useful information by applying different busi
 ## Demo
 - Here is an example of a data pipeline that we built, which loads the data into the product dimension in the data warehouse.
 ![image](https://user-images.githubusercontent.com/82019926/218820861-7b026b65-fbf0-415b-bcc5-f01a109fe6d7.png)
-- This is one of the reports we designed. It shows the sales of each product for every month.
+- completed loading all dimensions into the data warehouse, and now the entire structure is in place.
+![image](https://user-images.githubusercontent.com/82019926/219908370-ee09bcbe-b4af-41d2-8057-b1179f8adae8.png)
+
+- one of the reports we designed. It shows the sales of each product for every month.
  ![image](https://user-images.githubusercontent.com/82019926/218823344-d4b50612-c8e9-4120-8366-62ff6c55582d.png)
-- Here's one of the Power BI dashboards we designed, which displays the analysis of orders. 
+- one of the Power BI dashboards we designed, which displays the analysis of orders. 
 ![image](https://user-images.githubusercontent.com/82019926/218824598-85d7a28c-3883-4191-974b-938589ad0421.png)
-- This is the final product and it is a website built on the RandomForestRegressor algorithm, it works by outputting the profit for the category after inputting required data. 
+- the final product and it is a website built on the RandomForestRegressor algorithm, it works by outputting the profit for the category after inputting required data. 
 ![Screenshot_20230205_025628](https://user-images.githubusercontent.com/82019926/218831248-9ce7e6cf-59aa-47bd-bbe9-16b3f5e59308.png)
 
 
