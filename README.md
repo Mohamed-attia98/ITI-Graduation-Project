@@ -22,11 +22,12 @@ into the data warehouse, extracted useful information by applying different busi
 - implemented machine learning models( LinearRegression - KNeighborsRegressor - SVR - DecisionTreeRegressor - RandomForestRegressor ) using scikit learn
 - The Streamlit library was used to deploy the machine learning model.
 ## Demo
+- implemented the database,After mapping the ER diagram.
+![image](https://user-images.githubusercontent.com/82019926/219908648-b7c18380-afbd-4b06-b57b-316abfc096f9.png)
 - Here is an example of a data pipeline that we built, which loads the data into the product dimension in the data warehouse.
 ![image](https://user-images.githubusercontent.com/82019926/218820861-7b026b65-fbf0-415b-bcc5-f01a109fe6d7.png)
 - completed loading all dimensions into the data warehouse, and now the entire structure is in place.
 ![image](https://user-images.githubusercontent.com/82019926/219908370-ee09bcbe-b4af-41d2-8057-b1179f8adae8.png)
-
 - one of the reports we designed. It shows the sales of each product for every month.
  ![image](https://user-images.githubusercontent.com/82019926/218823344-d4b50612-c8e9-4120-8366-62ff6c55582d.png)
 - one of the Power BI dashboards we designed, which displays the analysis of orders. 
