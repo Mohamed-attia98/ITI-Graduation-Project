@@ -19,6 +19,9 @@ into the data warehouse, extracted useful information by applying different busi
 - the dashboards of all aspects of the database entities are created using power bi  
     ⭐ **Hint** you can see the dashboards deployed on Novypro's website from here -> [LINK](https://www.novypro.com/project/power-bi-73)
 - The desktop application uses two libraries: one to connect to the SQL Server called pyodbc, and the other to create the GUI called PyQt5.
+  - created 24 stored procedured by which custsomer can view, search for products and make order..etc and business analyst can view sales and profits KPIs
+    
+  -
 - implemented machine learning models( LinearRegression - KNeighborsRegressor - SVR - DecisionTreeRegressor - RandomForestRegressor ) using scikit learn
 - The Streamlit library was used to deploy the machine learning model.
 ## Demo
