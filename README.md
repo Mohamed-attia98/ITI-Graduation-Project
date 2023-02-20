@@ -5,6 +5,8 @@ into the data warehouse, extracted useful information by applying different busi
 - Database Design
   - Designed and created an Entity-Relationship (ER) Diagram and mapping to model the database. 
   - Implemented a database using Microsoft SQL Server and added stored procedures, views, functions, and triggers to ensure data consistency and integrity.
+- Stored Procedures
+  - created 24 stored procedures that allow customers to view and search for products, place orders, and perform other actions. Additionally, business analysts can use     the procedures to view key performance indicators (KPIs) such as sales and profits.
 - Data warehouse Design
   - Designed and Implemented a star schema data warehouse in sql server
   - Created data pipelines to load the data into the data warehouse 
@@ -18,10 +20,10 @@ into the data warehouse, extracted useful information by applying different busi
 - the OLAP cube and reports are created using SSAS and SSRS 
 - the dashboards of all aspects of the database entities are created using power bi  
     ⭐ **Hint** you can see the dashboards deployed on Novypro's website from here -> [LINK](https://www.novypro.com/project/power-bi-73)
-- The desktop application uses two libraries: one to connect to the SQL Server called pyodbc, and the other to create the GUI called PyQt5.
-  - created 24 stored procedured by which custsomer can view, search for products and make order..etc and business analyst can view sales and profits KPIs
-    
-  -
+- The desktop application uses two libraries: 
+  - one to connect to the SQL Server called pyodbc 
+  - the other to create the GUI called PyQt5.
+  - Through the app, customers can register, log in, place orders, view and search for products, and access their order history.
 - implemented machine learning models( LinearRegression - KNeighborsRegressor - SVR - DecisionTreeRegressor - RandomForestRegressor ) using scikit learn
 - The Streamlit library was used to deploy the machine learning model.
 ## Demo
