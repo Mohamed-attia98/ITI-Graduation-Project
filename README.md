@@ -10,9 +10,10 @@ into the data warehouse, extracted useful information by applying different busi
 - Data warehouse Design
   - Designed and Implemented a star schema data warehouse in sql server
   - Created data pipelines to load the data into the data warehouse 
-- generated an OLAP cube and designed reports
+-  created a data cube to make it easier for online analytical processing (OLAP) tools to perform analyses quickly and efficiently.
+- designed Ad hoc reports to make it easy to garner insights on the fly.
 - created interactive dashboards
-- Implemented a small desktop application
+-  Developed a Python-based desktop application to allow users to register, log in, view products, place orders, and more.
 - deployed a machine learning model on a small website 
 ## Technical Details
 - he database and data warehouse were developed on SQL Server 
