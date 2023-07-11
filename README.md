@@ -16,7 +16,7 @@ into the data warehouse, extracted useful information by applying different busi
 -  Developed a Python-based desktop application to allow users to register, log in, view products, place orders, and more.
 - deployed a machine learning model on a small website 
 ## Technical Details
-- he database and data warehouse were developed on SQL Server 
+- the database and data warehouse were developed on SQL Server 
 - The data pipelines for ETL were implemented using SSIS. 
 - the OLAP cube and reports are created using SSAS and SSRS 
 - the dashboards of all aspects of the database entities are created using power bi  
